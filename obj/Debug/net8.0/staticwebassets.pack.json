@@ -1,0 +1,289 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\work_01_MasterDetails_withSinglePageApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\work_01_MasterDetails_withSinglePageApp.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\Uploads\\03dbc589-575d-413f-901a-4e5d62f7dfae_638807622380322111.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\03dbc589-575d-413f-901a-4e5d62f7dfae_638807622380322111.jpg"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\Uploads\\0f1aadef-d423-4426-83e3-8325c616a499_638804790553686158.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\0f1aadef-d423-4426-83e3-8325c616a499_638804790553686158.jpg"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\Uploads\\240387247_4027215380738675_3356660657238549414_n_638805005336780055.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\240387247_4027215380738675_3356660657238549414_n_638805005336780055.jpg"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\Uploads\\3e0dc888-f96c-4192-97f4-0413d39cf67c_638805023517897779.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\3e0dc888-f96c-4192-97f4-0413d39cf67c_638805023517897779.jpg"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\Uploads\\47f7dd97-0d2f-41fa-b00e-049dc8244d8b_638805016730677255.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\47f7dd97-0d2f-41fa-b00e-049dc8244d8b_638805016730677255.jpg"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\Uploads\\72a36d93-77a5-4a8a-b538-4f49e5adbf06_638801636727374845.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\72a36d93-77a5-4a8a-b538-4f49e5adbf06_638801636727374845.jpg"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Az_IsDB\\ESAD_CS_R62\\M_09_Core\\Class_018\\work_01_MasterDetails_withSinglePageApp\\work_01_MasterDetails_withSinglePageApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.work_01_MasterDetails_withSinglePageApp.props",
+      "PackagePath": "build\\work_01_MasterDetails_withSinglePageApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.work_01_MasterDetails_withSinglePageApp.props",
+      "PackagePath": "buildMultiTargeting\\work_01_MasterDetails_withSinglePageApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.work_01_MasterDetails_withSinglePageApp.props",
+      "PackagePath": "buildTransitive\\work_01_MasterDetails_withSinglePageApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.work_01_MasterDetails_withSinglePageApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
